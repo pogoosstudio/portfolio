@@ -1,7 +1,7 @@
 {
 	"intro": {
-		"start": "const Andrew = ( name, passion ) =>",
-		"end": "Hello, my name is",
+		"start": "const DioverDM = ( nombre, pasión ) =>",
+		"end": "Hola, mi nombre es",
 		"speed": 60,
 		"deletionSpeed": 80,
 		"wrapper": "h2",
@@ -11,21 +11,21 @@
 	},
 
 	"header": {
-		"name": "Andrew Nelson.",
-		"usp": "I design and build meaningful experiences."
+		"name": "DioverDM.",
+		"usp": "Diseño y construyo experiencias significativas."
 	},
 
-	"paragraph": "I am a digital polymath — a constantly evolving digital creator driven by a passion for lifelong learning and the desire to leave a lasting impact.",
+	"paragraph": "Soy un erudito digital: un creador digital en constante evolución impulsado por una pasión por el aprendizaje permanente y el deseo de dejar un impacto duradero.",
 
 	"buttons": {
 		"primary": {
-			"title": "Contact Me",
-			"url": "",
+			"title": "Contáctame",
+			"url": "mailto:contact@dioverdm.com",
 			"leaveSite": false
 		},
 		"secondary": {
 			"title": "LinkedIn",
-			"url": "",
+			"url": "https://linkedin.com/in/dioverdm/",
 			"leaveSite": "true"
 		}
 	}
